@@ -38,13 +38,22 @@ header h1 {
   text-align: center;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .card{
-  width:200px;
-  margin:50px;
+  width: 250px;
+  height: 350px;
+  margin: 20px;
+  box-shadow: 10px 10px 5px grey;
+  border-radius: 10%;
+  border: 1px solid seagreen;
+  padding: 15px;
 }
 
 .card-list{
-  width:95%;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 }
