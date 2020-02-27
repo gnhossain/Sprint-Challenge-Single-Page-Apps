@@ -25,10 +25,10 @@ In this challenge, you will create a Single Page Application complete with Clien
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
-- [ ]  Explain benefit(s) using `client-side routing`?
+- [x]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
-
+> Answer:The best part about clint-side routing is that the page does not refresh. The data is just there, displayed through Component-Based Architecture.
+ 
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
